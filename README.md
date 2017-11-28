@@ -3,4 +3,4 @@
 
 Project contains scripts, that show parabolic trajectory of thrown object and its trail
 
-*Build with Unity 2017.2.0f3*
+*Built with Unity 2017.2.0f3*
