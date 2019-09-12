@@ -1,17 +1,6 @@
-# Algos
+# Ball-Trajectory-Trail
+![Ball Trajectory](https://i.imgur.com/laGhV7f.gif)
 
-Problems
-Sliding window
-Binary search tree, binary tree
-DFS, BFS
-![Sorting algos](https://i.imgur.com/46uTFoh.png)
+Project contains scripts, that show parabolic trajectory of thrown object and its trail
 
-Items are mostly sorted already =>  **INSERTION SORT**
-
-Concerned about worst-case scenarios => **HEAP SORT**
-
-Interested in a good average-case result => **QUICKSORT**
-
-Items are drawn from a dense universe => **BUCKET SORT**
-
-
+*Build with Unity 2017.2.0f3*
